@@ -1,0 +1,2 @@
+mahotas==1.4.5
+moviepy==0.2.3.2
